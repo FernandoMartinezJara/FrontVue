@@ -89,7 +89,7 @@
         <v-flex text-xs-center>
           <v-card flat tile color="primary" class="white--text">
             <v-card-text class="white--text pt-0">
-              Fernando Martínez &copy;2018
+              Diploma Calidad de Software, Diciembre 2018.
             </v-card-text>
           </v-card>
         </v-flex>
